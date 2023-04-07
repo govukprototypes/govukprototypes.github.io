@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "start": "govuk-prototype-kit start"
+  },
+  "dependencies": {
+    "govuk-frontend": "^4.5.0",
+    "govuk-prototype-kit": "^13.6.0"
+  }
+}
